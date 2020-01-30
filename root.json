@@ -1,0 +1,50 @@
+[
+            {
+                "Name": "bisection ",
+                "Root": "2x^3-x^2+2",
+                "xL": "-2",
+                "xR": "2",
+                "Epsilon": "0.01",
+                "Maximum_Iterations": "12"
+            },
+            {
+                "Name": "Graphical",
+                "Root": "x^3-x^2+2",
+                "xL": "-3",
+                "xR": "0",
+                "Epsilon": "0",
+                "Maximum_Iterations": "12"
+            },
+            {
+                "Name": "FalsePosition",
+                "Root": "x^3-x^2+2x-5",
+                "xL": "0",
+                "xR": "3",
+                "Epsilon": "0.01",
+                "Maximum_Iterations": "12"
+            },
+            {
+                "Name": "OnePointItration",
+                "Root": "3x^2-2x-1",
+                "xL": "0",
+                "xR": "0",
+                "Epsilon": "0.01",
+                "Maximum_Iterations": "12"
+            },
+            {
+                "Name": " NewtonRaphson",
+                "Root": "4x^3-x^2",
+                "xL": "-10",
+                "xR": "0",
+                "Epsilon": "0.01",
+                "Maximum_Iterations": "12"
+            },
+            {
+                "Name": "Secant",
+                "Root": "4x^3-x^2",
+                "xL": "-10",
+                "xR": "0",
+                "Epsilon": "0.01",
+                "Maximum_Iterations": "12"
+            }
+]
