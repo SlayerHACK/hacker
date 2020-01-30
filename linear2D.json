@@ -1,74 +1,78 @@
 [
     {
-        "name": "Cramer",
-        "x1": 2,
-        "x2": 1,
-        "x3": -1,
-        "x4": -3,
-        "x5": -1,
-        "x6": 2
-    },
-    {
-        "name": "Gaussian_elimination",
-        "x1": 2,
-        "x2": 1,
-        "x3": -1,
-        "x4": -3,
-        "x5": -1,
-        "x6": 2,
-    },
-    {
-        "name": "Gauss_Jordan",
-        "x1": 2,
-        "x2": 1,
-        "x3": -1,
-        "x4": -3,
-        "x5": -1,
-        "x6": 2,
-    },
-    {
-        "name": "LU_Decomposition",
-        "x1": 2,
-        "x2": 1,
-        "x3": -1,
-        "x4": -3,
-        "x5": -1,
-        "x6": 2
-    },
-    {
-        "name": "Cholesky_Decomposition",
-        "x1": 2,
-        "x2": 1,
-        "x3": -1,
-        "x4": -3,
-        "x5": -1,
-        "x6": 2
-    },
-    {
-        "name": "Jacobi_Iteration",
-        "x1": 2,
-        "x2": 1,
-        "x3": -1,
-        "x4": -3,
-        "x5": -1,
-        "x6": 2
-    },
-    {
-        "name": "Gauss_Sidel_Iteration",
-        "x1": 2,
-        "x2": 1,
-        "x3": -1,
-        "x4": -3,
-        "x5": -1,
-        "x6": 2
-    },
-    {
-        "name": "Conjugate_Gradient",
-        "x1": 2,
-        "x2": 1,
-        "x3": -1,
-        "x4": -3,
-        "x5": -1,
-        "x6": 2
+        "linear": [
+            {
+                "name": "Cramer",
+                "x1": 2,
+                "x2": 1,
+                "x3": -1,
+                "x4": -3,
+                "x5": -1,
+                "x6": 2
+            },
+            {
+                "name": "Gaussian_elimination",
+                "x1": 2,
+                "x2": 1,
+                "x3": -1,
+                "x4": -3,
+                "x5": -1,
+                "x6": 2
+            },
+            {
+                "name": "Gauss_Jordan",
+                "x1": 2,
+                "x2": 1,
+                "x3": -1,
+                "x4": -3,
+                "x5": -1,
+                "x6": 2
+            },
+            {
+                "name": "LU_Decomposition",
+                "x1": 2,
+                "x2": 1,
+                "x3": -1,
+                "x4": -3,
+                "x5": -1,
+                "x6": 2
+            },
+            {
+                "name": "Cholesky_Decomposition",
+                "x1": 2,
+                "x2": 1,
+                "x3": -1,
+                "x4": -3,
+                "x5": -1,
+                "x6": 2
+            },
+            {
+                "name": "Jacobi_Iteration",
+                "x1": 2,
+                "x2": 1,
+                "x3": -1,
+                "x4": -3,
+                "x5": -1,
+                "x6": 2
+            },
+            {
+                "name": "Gauss_Sidel_Iteration",
+                "x1": 2,
+                "x2": 1,
+                "x3": -1,
+                "x4": -3,
+                "x5": -1,
+                "x6": 2
+            },
+            {
+                "name": "Conjugate_Gradient",
+                "x1": 2,
+                "x2": 1,
+                "x3": -1,
+                "x4": -3,
+                "x5": -1,
+                "x6": 2
+            }
+        ]
     }
 ]
