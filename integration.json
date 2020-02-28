@@ -1,0 +1,4 @@
+[
+  simpson : [fx:x^2+2x-4,a:1,b:5,10],
+  Trapzoidal : [fx:x^2+2x-4,a:1,b:5,10]
+]
